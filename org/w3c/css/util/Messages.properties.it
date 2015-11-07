@@ -274,7 +274,7 @@ error.noatruleyet : Altre @rules diverse da @import non sono supportate dai CSS1
 error.notforcss1 : Il valore %s non esiste per i CSS1
 
 # used by org.w3c.css.parser.CssFouffa
-error.unrecognize: Vi sono troppi valori, oppure i valori non sono riconosciuti
+error.unrecognize: Ci sono troppi valori, oppure i valori non sono riconosciuti
 
 # used by org.w3c.css.parser.CssFouffa
 generator.unrecognize: Parse Error
